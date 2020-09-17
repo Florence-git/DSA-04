@@ -1,8 +1,11 @@
-﻿09:27:23	 From  Patricio Salgado : When a COVID-19 vaccine has been developed and widely administered.
+﻿09:27:23	 From  Patricio Salgado : When a COVID-19 vaccine has been developed and widely administered.
+Creating a new line ......
 09:27:25	 From  Henry Bottjer : This would have been a great polling question.
-09:27:37	 From  Loren Schwartz : When a COVID-19 vaccine has been developed and widely administered
+
+Creating another new line ....
 09:28:00	 From  Jay Stanley : Matt great point on protecting the data at the file level. The practice you mention can help organizations avoid applying too much security. thanks for sharing.
 09:28:11	 From  Anne Kwok : I'm IN THE ZOOM app but do not see poll. At the last isaca one I did see polls.
-09:28:22	 From  Hideko Uchiyama : When a COVID-19 vaccine has been developed and widely administered.
-09:29:10	 From  Stacy Jordan : is their dlp solutions for cloud?
+
+09:29:10	 From  Stacy Jordan : is their dlp solutions for cloud?
+
 
